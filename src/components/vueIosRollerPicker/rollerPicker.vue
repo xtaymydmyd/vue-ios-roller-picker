@@ -227,8 +227,8 @@ export default {
       }
     },
     data (val, old) {
-      this.scrollHeight = 0
-      this.$emit('change', 0)
+      //this.scrollHeight = 0
+      //this.$emit('change', 0)
     }
   }
 }
